@@ -3,6 +3,9 @@
 using namespace std;
 
 int main() {
+	
+	cout<<"Se ha iniciado el programa correctamente"<<endl;
+	
     int n;
     
     cout<<"Ingrese el valor de n: ";
