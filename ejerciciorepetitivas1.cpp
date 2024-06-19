@@ -14,7 +14,7 @@ int main() {
     for (int i = 1; i <= n; i++) {
         cout << i * 7 << endl;
     }
-    
+    cout<<"El programa ha finalizado";
     return 0;
 }
 
