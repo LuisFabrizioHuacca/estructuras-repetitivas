@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	
+	cout<<"--------El programa se ha iniciado-------";
 	cout<<"Se ha iniciado el programa correctamente"<<endl;
 	
     int n;
