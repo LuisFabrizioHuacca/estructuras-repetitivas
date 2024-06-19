@@ -8,7 +8,7 @@ int main() {
 	
     int n;
     
-    cout<<"Ingrese el valor de n: ";
+    cout<<"Ingrese el valor de n: "; //n es el numero de multiplos que se imprimiran de 7
     cin>>n;
     
     for (int i = 1; i <= n; i++) {
